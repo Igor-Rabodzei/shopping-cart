@@ -17,7 +17,6 @@ Route::get('/', [
 ]);
 
 
-
 Route::group(['prefix' => 'user'], function (){
 
     Route::group(['middleware' => 'guest'], function(){
