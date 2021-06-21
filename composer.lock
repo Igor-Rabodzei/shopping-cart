@@ -1356,16 +1356,16 @@
         },
         {
             "name": "stripe/stripe-php",
-            "version": "v7.79.0",
+            "version": "v7.85.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/stripe/stripe-php.git",
-                "reference": "e17e85bc13dfa531bdfb3d3719d3810431d104f9"
+                "reference": "c3bdde76ddb626b4f17fd746962104b0d917506a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/stripe/stripe-php/zipball/e17e85bc13dfa531bdfb3d3719d3810431d104f9",
-                "reference": "e17e85bc13dfa531bdfb3d3719d3810431d104f9",
+                "url": "https://api.github.com/repos/stripe/stripe-php/zipball/c3bdde76ddb626b4f17fd746962104b0d917506a",
+                "reference": "c3bdde76ddb626b4f17fd746962104b0d917506a",
                 "shasum": ""
             },
             "require": {
@@ -1409,7 +1409,7 @@
                 "payment processing",
                 "stripe"
             ],
-            "time": "2021-05-19T19:30:23+00:00"
+            "time": "2021-06-18T04:53:41+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -4385,6 +4385,7 @@
             ],
             "description": "Provides a list of PHP built-in functions that operate on resources",
             "homepage": "https://www.github.com/sebastianbergmann/resource-operations",
+            "abandoned": true,
             "time": "2015-07-28T20:34:47+00:00"
         },
         {
