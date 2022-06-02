@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "cf5cb57321c4efeec27ffecdaffcc847",
+    "content-hash": "b7b4bae4f14dd9ff2b4d42a6de28451e",
     "packages": [
         {
             "name": "dnoegel/php-xdg-base-dir",
@@ -1366,16 +1366,16 @@
         },
         {
             "name": "stripe/stripe-php",
-            "version": "v7.119.0",
+            "version": "v8.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/stripe/stripe-php.git",
-                "reference": "a454dde82f5698cc4bcc5016c5328f533f516690"
+                "reference": "e48ebf628d0e97e205f946ecb97fcd2de00f7926"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/stripe/stripe-php/zipball/a454dde82f5698cc4bcc5016c5328f533f516690",
-                "reference": "a454dde82f5698cc4bcc5016c5328f533f516690",
+                "url": "https://api.github.com/repos/stripe/stripe-php/zipball/e48ebf628d0e97e205f946ecb97fcd2de00f7926",
+                "reference": "e48ebf628d0e97e205f946ecb97fcd2de00f7926",
                 "shasum": ""
             },
             "require": {
@@ -1418,7 +1418,7 @@
                 "payment processing",
                 "stripe"
             ],
-            "time": "2022-03-25T20:09:27+00:00"
+            "time": "2022-06-01T19:17:59+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
