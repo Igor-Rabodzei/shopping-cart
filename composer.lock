@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1cd9db4b47a68afbecfb02feb79a4555",
+    "content-hash": "b8c3ae19f82a781d267fa5827cfb759c",
     "packages": [
         {
             "name": "dnoegel/php-xdg-base-dir",
@@ -1366,16 +1366,16 @@
         },
         {
             "name": "stripe/stripe-php",
-            "version": "v8.6.0",
+            "version": "v9.4.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/stripe/stripe-php.git",
-                "reference": "d8ce03ae74d012d108f2338214444f24d94c2496"
+                "reference": "a759cccb477ed8acad7c379d45fc8be5bc69636e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/stripe/stripe-php/zipball/d8ce03ae74d012d108f2338214444f24d94c2496",
-                "reference": "d8ce03ae74d012d108f2338214444f24d94c2496",
+                "url": "https://api.github.com/repos/stripe/stripe-php/zipball/a759cccb477ed8acad7c379d45fc8be5bc69636e",
+                "reference": "a759cccb477ed8acad7c379d45fc8be5bc69636e",
                 "shasum": ""
             },
             "require": {
@@ -1386,6 +1386,7 @@
             },
             "require-dev": {
                 "friendsofphp/php-cs-fixer": "3.5.0",
+                "php-coveralls/php-coveralls": "^2.5",
                 "phpstan/phpstan": "^1.2",
                 "phpunit/phpunit": "^5.7 || ^9.0",
                 "squizlabs/php_codesniffer": "^3.3"
@@ -1418,7 +1419,7 @@
                 "payment processing",
                 "stripe"
             ],
-            "time": "2022-06-08T16:13:12+00:00"
+            "time": "2022-08-26T17:25:01+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
